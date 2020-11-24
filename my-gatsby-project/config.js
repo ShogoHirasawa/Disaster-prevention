@@ -7,7 +7,7 @@ module.exports = {
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
-  pathPrefix: `/Website-for-disaster-prevention/`, // This path is subpath of your hosting https://domain/portfolio
+  pathPrefix: `/Disaster-prevention/`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'みんなの防災＋ソナエ ',
   subHeading: 'コロナ禍でも災害は待ってくれない',
   // social
